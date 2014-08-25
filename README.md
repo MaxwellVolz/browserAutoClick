@@ -1,4 +1,6 @@
 browserAutoClick
 ================
 
-finds and "clicks" a button using chrome chrome console. loops until page reloads. dismisses error messages.
+Finds and "clicks" a button using chrome chrome console. Loops until page reloads. Dismisses error messages.
+
+
